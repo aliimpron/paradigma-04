@@ -9,3 +9,4 @@ def fact_iteration(number):
 factorial = fact_iteration(6)
 print("6! = "+str(factorial))
 
+#update
